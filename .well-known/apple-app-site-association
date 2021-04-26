@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+        {
+             "appIDs": ["com.joindesign.react"],
+             "components": [
+               {
+                  "/": "/*",
+                  "comment": "Matches any URL whose path starts with /buy/"
+               },
+             ]
+           }
+        ]
+    }
+}
